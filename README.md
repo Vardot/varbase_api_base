@@ -2,7 +2,7 @@
 
 A recipe to set up JSON:API with authentication, authorization, and OpenAPI documentation for easy content ingestion by other applications.
 
-This recipe provides the base API functionality extracted from the Varbase API module, allowing you to easily set up a complete API infrastructure for your Drupal site.
+This recipe provides the base API functionality, allowing you to easily set up a complete API infrastructure for your Drupal site.
 
 ## Features
 
