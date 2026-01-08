@@ -18,7 +18,6 @@
   },
   "require": {
     "drupal/core": "~11.3.0",
-    "vardot/varbase-patches": "~11.0.0",
     "drupal/consumers": "~1",
     "drupal/openapi": "~2",
     "drupal/openapi_jsonapi": "~3",
