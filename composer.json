@@ -28,6 +28,5 @@
     "drupal/restui": "~1",
     "drupal/jsonapi_extras": "~3",
     "drupal/jsonapi_defaults": "~1"
-  },
-  "version": "1.0.x-dev"
+  }
 }
