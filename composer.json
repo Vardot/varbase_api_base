@@ -3,7 +3,7 @@
   "description": "A recipe to set up JSON:API with authentication, authorization, and OpenAPI documentation for easy content ingestion by other applications.",
   "keywords": ["recipe", "Varbase recipes", "varbase recipe", "Drupal recipes", "drupal recipe", "API", "JSON:API", "OpenAPI", "REST API"],
   "type": "drupal-recipe",
-  "license": "GPL-2.0-or-later",
+  "license": ["GPL-2.0-or-later"],
   "authors": [
     {
       "name": "Vardot",
@@ -28,5 +28,6 @@
     "drupal/restui": "~1",
     "drupal/jsonapi_extras": "~3",
     "drupal/jsonapi_defaults": "~1"
-  }
+  },
+  "version": "1.0.x-dev"
 }
