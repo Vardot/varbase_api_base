@@ -1,7 +1,7 @@
 {
   "name": "drupal/varbase_api_base",
   "description": "A recipe to set up JSON:API with authentication, authorization, and OpenAPI documentation for easy content ingestion by other applications.",
-  "keywords": ["recipe", "Varbase recipes", "varbase recipe", "Drupal recipes", "drupal recipe", "API", "JSON:API", "OpenAPI", "REST API"],
+  "keywords": ["recipe", "Varbase recipes", "varbase recipe", "Drupal recipes", "drupal recipe", "API", "JSON-API", "OpenAPI", "REST API"],
   "type": "drupal-recipe",
   "license": ["GPL-2.0-or-later"],
   "authors": [
