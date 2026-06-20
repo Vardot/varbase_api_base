@@ -1,3 +1,5 @@
+[![Varbase](https://raw.githubusercontent.com/Vardot/varbase/11.0.x/images/varbase-logo.png)](https://www.drupal.org/project/varbase)
+
 # Varbase API Base
 
 A recipe to set up JSON:API with authentication, authorization, and OpenAPI documentation for easy content ingestion by other applications.
