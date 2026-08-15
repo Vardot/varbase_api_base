@@ -2,7 +2,7 @@
 
 # Varbase API Base
 [![pipeline status](https://git.drupalcode.org/project/varbase_api_base/badges/1.0.x/pipeline.svg)](https://git.drupalcode.org/project/varbase_api_base/-/pipelines)
-[![Varbase API Base](https://img.shields.io/badge/Varbase%20API%20Base-1.0.0--beta1-0d6efc?labelColor=001d38&style=flat-square)](https://git.drupalcode.org/project/varbase_api_base/-/pipelines?ref=1.0.0-beta1)
+[![Varbase API Base](https://img.shields.io/badge/Varbase%20API%20Base-1.0.0--rc1-0d6efc?labelColor=001d38&style=flat-square)](https://git.drupalcode.org/project/varbase_api_base/-/pipelines?ref=1.0.0-rc1)
 [![Automated Functional Testing](https://git.drupalcode.org/project/varbase_project/badges/11.0.x/pipeline.svg)](https://git.drupalcode.org/project/varbase_project/-/pipelines)
 
 A recipe to set up JSON:API with authentication, authorization, and OpenAPI documentation for easy content ingestion by other applications.
