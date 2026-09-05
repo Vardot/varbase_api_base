@@ -29,5 +29,5 @@
     "drupal/jsonapi_extras": "~3",
     "vardot/swagger-ui": "^5.32.14"
   },
-  "version": "1.0.x-dev"
+  "version": "1.0.0"
 }
