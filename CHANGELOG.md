@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-25
+### Changed
+- Use caret constraints and allow Drupal 11.4 and later and Drupal 12 in Varbase API Base recipe ([#3621040](https://git.drupalcode.org/project/varbase_api_base/-/work_items/3621040)).
+- Update the version badge to `1.0.1` in `README.md`.
+
 ## [1.0.0] - 2026-09-06
 ### Changed
 - Release the first stable version of the Varbase API Base recipe with the Varbase 11.0.0 suite.
@@ -41,7 +46,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release of the Varbase API Base recipe.
 
-[Unreleased]: https://git.drupalcode.org/project/varbase_api_base/-/compare/1.0.0...1.0.x
+[Unreleased]: https://git.drupalcode.org/project/varbase_api_base/-/compare/1.0.1...1.0.x
+[1.0.1]: https://git.drupalcode.org/project/varbase_api_base/-/compare/1.0.0...1.0.1
 [1.0.0]: https://git.drupalcode.org/project/varbase_api_base/-/compare/1.0.0-rc2...1.0.0
 [1.0.0-rc2]: https://git.drupalcode.org/project/varbase_api_base/-/compare/1.0.0-rc1...1.0.0-rc2
 [1.0.0-rc1]: https://git.drupalcode.org/project/varbase_api_base/-/compare/1.0.0-beta1...1.0.0-rc1
